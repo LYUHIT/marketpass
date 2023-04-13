@@ -1,5 +1,6 @@
 
 # [ MARKET PASS - 마켓패스 ] 마트 계산대에서 사용하는 하이패스
+- ( 본 프로젝트는 2019년 상반기에 진행된 프로젝트로써, 기존의 코드와 발표물을 백업한 자료입니다. )
 - 프로젝트 회고 : https://velog.io/@uiseok0514/Project-MarketPass
 
 ## ESL, NFC를 활용한 쇼핑 편의 어플
