@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="600" height="450">
 
 # [ MARKET PASS - 마켓패스 ] 마트 계산대에서 사용하는 하이패스
 - ( 본 프로젝트는 2019년 상반기에 진행된 과제로써, 기존의 코드와 발표물을 백업한 자료입니다. )
